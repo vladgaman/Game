@@ -1,4 +1,4 @@
-package com.vurst.Game;
+package com.vurst.game;
 
 public class Main {
 
